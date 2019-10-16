@@ -19,4 +19,10 @@ class Dog
     end
   end
 
+  private
+
+  def save
+
+  end
+
 end
